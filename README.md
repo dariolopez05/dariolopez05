@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola! Soy Darío López </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">Full-Stack Developer | Especialización en IA y Big Data</h3>
+<h3 align="center">Junior Backend Developer | Python · APIs · Angular · AWS | Full-Stack Experience</h3>
 
 <p align="center">
   <a href="https://dariolopez.dev" target="_blank">
@@ -21,15 +21,15 @@
 
 ### 👨‍💻 Sobre mí
 
-* 🎓 Titulado en **Desarrollo de Aplicaciones Web (DAW)** y actualmente cursando una especialización en **Inteligencia Artificial y Big Data**.
-* 🔭 Desarrollando proyectos aplicando Machine Learning e IA, como un sistema para el **triaje de urgencias** médicas y asistentes virtuales (**SecretariaBot**) usando AWS Bedrock y funciones Lambda.
-* 🌱 Creando herramientas de automatización y scrapers con Python (Playwright) para prospección B2B y extracción de datos.
-* 🎨 Apasionado por el diseño UI minimalista, moderno y las interfaces en *dark mode*.
+* 🎓 Titulado en **Desarrollo de Aplicaciones Web (DAW)** y especializado en **Inteligencia Artificial y Big Data**.
+* 💻 Desarrollador orientado a **backend**, con experiencia profesional desarrollando aplicaciones web, integrando APIs REST y construyendo soluciones para clientes reales.
+* ☁️ Trabajo principalmente con **Python, FastAPI, AWS, Docker y PostgreSQL**, desarrollando aplicaciones escalables y mantenibles.
+* 🤖 He participado en proyectos de **machine learning, arquitecturas distribuidas, automatización e IA aplicada**, combinando ingeniería de software y análisis de datos.
 
 ### 💼 Experiencia
 
-* **Desarrollador Web | Metric Salad** *(6 meses)* Experiencia profesional en el desarrollo, mantenimiento y optimización de soluciones web.
-* **Proyectos Personales & Freelance | Netnify** *(6 meses)* Co-creador de un servicio enfocado en la digitalización de negocios locales. He gestionado el desarrollo de *landing pages* de alto impacto para más de 5 clientes reales, abarcando desde la concepción técnica hasta la entrega final.
+* **Desarrollador Web | Metric Salad** *(6 meses)* Experiencia profesional desarrollando y manteniendo aplicaciones web con Angular, TypeScript y APIs REST.
+* **Desarrollador Full-Stack | Netnify** *(6 meses)* Desarrollo de soluciones web para clientes reales, participando en todo el ciclo de vida del proyecto: análisis, desarrollo, testing y despliegue.
 
 ### 🛠️ Stack Tecnológico
 
@@ -47,19 +47,19 @@
 **Frameworks & Librerías**
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
-**Herramientas & Bases de Datos**
+**Cloud, Bases de Datos & Herramientas**
 <p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ### 📊 Estadísticas de GitHub
@@ -71,8 +71,9 @@
 </div>
 
 ---
+
 <p align="center">
-  <i>📫 ¿Hablamos? Contáctame a través de mi <a href="mailto:aodariolopez@gmail.com">correo</a>, vía LinkedIn o en el <b>+34 722 65 31 27</b>.</i>
+  <i>📫 ¿Hablamos? Contáctame a través de mi <a href="mailto:aodariolopez@gmail.com">correo</a>, vía LinkedIn o en mi portfolio.</i>
 </p>
 
 <p align="center">
