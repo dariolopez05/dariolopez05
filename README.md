@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola! Soy Darío López </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">Junior Backend Developer | Python · APIs · Angular · AWS | Full-Stack Experience</h3>
+<h3 align="center">Junior Software Developer | Python · APIs · Angular · AWS | Full-Stack Experience</h3>
 
 <p align="center">
   <a href="https://dariolopez.dev" target="_blank">
@@ -23,7 +23,7 @@
 
 * 🎓 Titulado en **Desarrollo de Aplicaciones Web (DAW)** y especializado en **Inteligencia Artificial y Big Data**.
 * 💻 Desarrollador orientado a **backend**, con experiencia profesional desarrollando aplicaciones web, integrando APIs REST y construyendo soluciones para clientes reales.
-* ☁️ Trabajo principalmente con **Python, FastAPI, AWS, Docker y PostgreSQL**, desarrollando aplicaciones escalables y mantenibles.
+* ☁️ Trabajo principalmente con **Python, Angular, FastAPI, AWS, Docker y PostgreSQL**, desarrollando aplicaciones escalables y mantenibles.
 * 🤖 He participado en proyectos de **machine learning, arquitecturas distribuidas, automatización e IA aplicada**, combinando ingeniería de software y análisis de datos.
 
 ### 💼 Experiencia
